@@ -141,6 +141,7 @@
 		                	<img src="assets/img/colaboradores/nathan.jpg" alt="" data-at2x="assets/img/colaboradores/nathan.jpg">
 		                </div>
 	                    <h3>Nathan Munis</h3>
+						<h4>Bolsista FAPERJ Iniciação Tecnológica 2019-2020</h4>
 	                    
 	                    <div class="team-social">
 		                	<a href="https://www.linkedin.com/in/nathanmunisdesantana/" target="_blank"><i class="fa fa-linkedin"></i></a>
@@ -161,7 +162,8 @@
 		                	<img src="assets/img/colaboradores/sand.jpg" alt="" data-at2x="assets/img/colaboradores/sand.jpg">
 		                </div>
 	                    <h3>Sanderson Barbosa</h3>
-	   
+						<h4>Bolsista PIBIC 2019-2020</h4>
+							   
 	                    <div class="team-social">
 		                	<a href="https://linkedin.com/in/sandbar0" target="_blank"><i class="fa fa-linkedin"></i></a>
 		                </div>
@@ -464,8 +466,9 @@
                     	<p>&copy; NuES Games</p> 
                     	<h5>nuesgames@gmail.com</h5>
                     </div>
-                    <div class="col-sm-5 footer-social">
-                    	<a href="https://www.facebook.com/nuesgames/" target="_blank"><i class="fa fa-facebook"></i></a>
+	
+                    <div class="col-sm-5 footer-social">				
+                    	<a href="https://www.facebook.com/nuesgames.nuesgames.1?ref=bookmarks" target="_blank"><i class="fa fa-facebook"></i></a>
                     </div>
 	            </div>
 	        </div>

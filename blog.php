@@ -45,6 +45,7 @@
             	<h1><ha href="">Blog</a></h1>
             	<p>Nesta parte, estão as publicações desenvolvidas pela equipe  NuES Games. Os artigos publicados pela a gente tem como foco o planejamento do desenvolvimento de games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Então escolha um título, clique sobre ele e comece a aprender</p>
                 <p><a href="blog-artigo1.php" target="_blank"> Desenvolvimento de Jogos: Mais difícil do que se pensa.</a></p>
+				<p><a href="blog-artigo2.php" target="_blank"> Engenharia de Software e Games.</a></p>
                 </div> 
         </div>
 
