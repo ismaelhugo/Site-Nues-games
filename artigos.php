@@ -43,10 +43,10 @@
             <div class="top-content-text wow fadeInUp">
             	<h1><ha href="">Artigos</a></h1>
             	<p>Aqui estão alguns artigos e trabalhos publicados por alunos do Coordenador André Leal, tendo como tema principal a engenharia de software voltada a games. Faça download do arquivo clicando sobre ele </p>
-            	 <p><a href="https://mega.nz/#!aTYlAAwT!01naiNI9s7z6cAiwkXCVDr40_Y-bUEEJtiQmOPC9ZzM" target="_blank">Klemer Monteiro - Aspectos de Jogabilidade Modelados com NFR Framework em Jogos MMORPG e MOBA</a></p>
-	            <p><a href="https://mega.nz/#!OGBTnC7K!aGVH-166e-u_F45BZW-eXbY-zbf7OZ1h06d3uofMces" target="_blank">Gustavo Garcia - Functional Requeriments Frameworks: Influências na qualidade de jogos de entreterimento com temática role-playing game</a></p>
-	            <p><a href="https://mega.nz/#!neYVxIZD!BJPu0Bs29WOW5HF1GYk8B6oPnLMU-r__QF4hRitlSwk" target="_blank">Klemer Monteiro - Modelagem de qualidade com o uso de iStar Framework</a></p>
-	            <p><a href="https://mega.nz/#!nPBAwCaI!OiohopNEprKEYY-2DnG4Mxm7JO-nbPF6JRDqaXOMa8k">Ana Clara Correa - Destaque para o Requisito Não Funcional de Segurança em Jogos Multiplayer Online</a></p>
+            	 <p><a href="https://drive.google.com/open?id=19WD4xzrEPAA8M7nTXqc-8AvUIiX4Vftg" target="_blank">Klemer Monteiro - Aspectos de Jogabilidade Modelados com NFR Framework em Jogos MMORPG e MOBA</a></p>
+	            <p><a href="https://drive.google.com/open?id=1V2THl2jmAwcgg0XxODdwnDT2ItzOVLUg" target="_blank">Gustavo Garcia - Functional Requeriments Frameworks: Influências na qualidade de jogos de entreterimento com temática role-playing game</a></p>
+	            <p><a href="https://drive.google.com/open?id=1abadL1m05ZDY4jO-CYBrif183mAZf46N" target="_blank">Klemer Monteiro - Modelagem de qualidade com o uso de iStar Framework</a></p>
+	            <p><a href="https://drive.google.com/open?id=157y3KIY06vrRp1bIVZoqGHIwlqh6kU9D">Ana Clara Correa - Destaque para o Requisito Não Funcional de Segurança em Jogos Multiplayer Online</a></p>
             	<div class="">
             		<a class="" href="#about"></a>
             	</div>

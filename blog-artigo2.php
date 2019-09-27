@@ -61,7 +61,7 @@
                         <div class="divider-1 wow fadeInUp"><span></span></div>
                         <h4><i>Publicado dia 21 de Agosto de 2019 por Nathan Munis e Sanderson Barbosa</i></h4>
                         <h5><a href="dicionario.php" target="_blank">Dicionário de termos</a></h5>
-                        <p align="left"  style="color: black" >
+                        <p align="justify"  style="color: black" >
 						
 						&emsp;&emsp;&emsp;&emsp;Desenvolver jogos digitais, games, configure-se por processo de software de dificil estruturação, uma vez que suas fases, ortogonais ou não, são multidisciplinares envolvendo questões técnicas de engenharia de desenvolvimento de software como também de outras disciplinas como artes visuais, audio e roterização. Essa diversidade de conhecimento exigem alto grau de esforço humano para se orquestrar conhecimentos e habilidades da equipe que atua na produção de um game. <br><br>
 						
