@@ -54,7 +54,7 @@
         <div class="top-content">
             <div class="top-content-text wow fadeInUp">
             	<div class=""><span></span></div>
-            	<h1><ha href=""></a></h1>
+            	<h1><a href=""></a></h1>
             	<div class=""><span></span></div>
             	<p></p>
             	<div class="">
@@ -122,101 +122,127 @@
 	                </div>
 	            </div>
 	            
-	            <div class="row">
 	            	<h3>Colaboradores Permanentes</h3>
+	                <div class="divider-1 wow fadeInUp"><span></span></div>
+
+	                <div class="row">
+						<div class="col-sm-4 team-box wow fadeInUp">
+							<div class="team-photo">
+								<img src="assets/img/colaboradores/nathan.jpg" alt="" data-at2x="assets/img/colaboradores/nathan.jpg">
+							</div>
+							<h3>Nathan Munis</h3>
+							<h4>Bolsista FAPERJ Iniciação Tecnológica 2019-2020</h4>
+							
+							<div class="team-social">
+								<a href="https://www.linkedin.com/in/nathanmunisdesantana/" target="_blank"><i class="fa fa-linkedin"></i></a>
+							</div>
+						</div>
+						
+						<div class="col-sm-4 team-box wow fadeInUp">
+							<div class="team-photo">
+								<img src="assets/img/colaboradores/sand.jpg" alt="" data-at2x="assets/img/colaboradores/sand.jpg">
+							</div>
+							<h3>Sanderson Barbosa</h3>
+							<h4>Bolsista PIBIC 2019-2020</h4>
+								
+							<div class="team-social">
+								<a href="https://linkedin.com/in/sandbar0" target="_blank"><i class="fa fa-linkedin"></i></a>
+							</div>
+						</div>
+	                </div>
+					</div>
+				</div>
+		    	</div>
+	        </div>
+		</div>
+		
+		<div class="team-container section-container">
+	        <div class="container">
+	            <div class="row">
+	                <div class="col-sm-12 team section-description wow fadeIn">
+	                    <h3>Colaboradores eventuais</h3>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
-	                
-	                <div class="col-sm-4 team-box wow fadeInUp">
-		                <div class="team-photo">
-		                	<img src="assets/img/colaboradores/nathan.jpg" alt="" data-at2x="assets/img/colaboradores/nathan.jpg">
-		                </div>
-	                    <h3>Nathan Munis</h3>
-						<h4>Bolsista FAPERJ Iniciação Tecnológica 2019-2020</h4>
-	                    
-	                    <div class="team-social">
-		                	<a href="https://www.linkedin.com/in/nathanmunisdesantana/" target="_blank"><i class="fa fa-linkedin"></i></a>
-		                </div>
 	                </div>
-	                 
-	                <div class="col-sm-4 team-box wow fadeInUp">
-		                <div class="team-photo">
-		                	<img src="assets/img/colaboradores/sand.jpg" alt="" data-at2x="assets/img/colaboradores/sand.jpg">
-		                </div>
-	                    <h3>Sanderson Barbosa</h3>
-						<h4>Bolsista PIBIC 2019-2020</h4>
-							   
-	                    <div class="team-social">
-		                	<a href="https://linkedin.com/in/sandbar0" target="_blank"><i class="fa fa-linkedin"></i></a>
-		                </div>
-	                </div>
-	                
-		        </div>
-		        <div class="row">
-	            	<h3>Colaboradores de projetos eventuais</h3>
-	            	<div class="divider-1 wow fadeInUp"><span></span></div>
-	            	
-	            	<div class="col-sm-4 team-box wow fadeInDown">
-		                <div class="team-photo">
-		                	<img src="assets/img/colaboradores/ismael.jpg" alt="" data-at2x="assets/img/colaboradores/ismael.jpg">
-		                </div>
-	                    <h3>Ismael Hugo</h3>
-	                   
-	                    <div class="team-social">
-		                	<a href="https://www.linkedin.com/in/ismael-hugo-393014131/" target="_blank"> <i class="fa fa-linkedin"></i></a>
-		                </div>
-	                </div>
-
-	                  <div class="col-sm-4 team-box wow fadeInDown">
-		                <div class="team-photo">
-		                	<img src="assets/img/colaboradores/user.png" alt="" data-at2x="assets/img/colaboradores/user.png">
-		                </div>
-	                    <h3>Marcio Perdigão</h3>
-	                   	<div class="team-social">
-		                	<!--<a href="XXXXXXXXXXXXXXXXXXXXXX" target="_blank"><i class="fa fa-linkedin"></i></a>-->
-		                </div>
-	                </div>
-
-	                <div class="col-sm-4 team-box wow fadeInUp">
-		                <div class="team-photo">
-		                	<img src="assets/img/colaboradores/ruan.jpg" alt="" data-at2x="assets/img/colaboradores/ruan.jpg">
-		                </div>
-	                    <h3>Ruan Ferreira</h3>
-
-	                    <div class="team-social">
-		                	<a href="https://www.linkedin.com/in/ruan-ferreira-87a15a180/" target="_blank"><i class="fa fa-linkedin"></i></a>
-		                </div>
-	                </div>
-
-
-	            	<div class="col-sm-4 team-box wow fadeInUp">
-		                <div class="team-photo">
-		                	<img src="assets/img/colaboradores/tiago.jpg" alt="" data-at2x="assets/img/colaboradores/tiago.jpg">
-		                </div>
-	                    <h3>Tiago Silveira</h3>
-	                   
-	                    <div class="team-social">
-		                	<a href="https://www.linkedin.com/in/tiago-silveira-6b273b10a/" target="_blank"><i class="fa fa-linkedin"></i></a>
-		                </div>
-	                </div>
-
 	            </div>
 
-		        <div class="row">
-		        <h1>Coordenador</h1>
-				<div class="divider-1 wow fadeInUp"><span></span></div>
-		        <div class="col-sm-4 team-box wow fadeInUp">
-		        	<div class="team-photo">
-		        		<img src="assets/img/colaboradores/andre.jpg" alt="" data-at2x="assets/img/colaboradores/andre.jpg">
-		        	</div>
-		        	<h3>André Luiz de Castro Leal</h3>
-		        	<div class="team-social">
-		        		<a target="_blank" href="http://lattes.cnpq.br/7302692557217402" target="_blank">lattes</a>
-		        	</div>
-		        </div>
-		    </div>
+	                <div class="row">
+						<div class="col-sm-4 team-box wow fadeInUp">
+							<div class="team-photo">
+								<img src="assets/img/colaboradores/ismael.jpg" alt="" data-at2x="assets/img/colaboradores/ismael.jpg">
+							</div>
+							<h3>Ismael Hugo</h3>
+							
+							<div class="team-social">
+								<a href="https://www.linkedin.com/in/ismael-hugo-393014131/" target="_blank"><i class="fa fa-linkedin"></i></a>
+							</div>
+						</div>
+						
+						<div class="col-sm-4 team-box wow fadeInUp">
+							<div class="team-photo">
+								<img src="assets/img/colaboradores/user.png" alt="" data-at2x="assets/img/colaboradores/user.jpg">
+							</div>
+							<h3>Marcio Perdigão</h3>
+								
+							<!--<div class="team-social">
+								<a href="https://linkedin.com/in/sandbar0" target="_blank"><i class="fa fa-linkedin"></i></a>
+							</div>-->
+						</div>
+
+						<div class="col-sm-4 team-box wow fadeInUp">
+							<div class="team-photo">
+								<img src="assets/img/colaboradores/ruan.jpg" alt="" data-at2x="assets/img/colaboradores/ruan.jpg">
+							</div>
+							<h3>Ruan Ferreira</h3>
+							
+							<div class="team-social">
+								<a href="https://www.linkedin.com/in/ruan-ferreira-0901/" target="_blank"><i class="fa fa-linkedin"></i></a>
+							</div>
+						</div>
+
+						<div class="col-sm-4 team-box wow fadeInUp">
+							<div class="team-photo">
+								<img src="assets/img/colaboradores/tiago.jpg" alt="" data-at2x="assets/img/colaboradores/tiago.jpg">
+							</div>
+							<h3>Tiago Silveira</h3>
+							
+							<div class="team-social">
+								<a href="https://www.linkedin.com/in/tiago-silveira-6b273b10a/" target="_blank"><i class="fa fa-linkedin"></i></a>
+							</div>
+						</div>
+	                </div>
+					</div>
+				</div>
+		    	</div>
 	        </div>
-        </div>
-        
+		</div>
+		
+
+		<div class="team-container section-container">
+	        <div class="container">
+	            <div class="row">
+	                <div class="col-sm-12 team section-description wow fadeIn">
+	                    <h2>Coordenador</h2>
+	                    <div class="divider-1 wow fadeInUp"><span></span></div>
+	                </div>
+	            </div>
+						
+						<div class="col-sm-4 team-box wow fadeInUp">
+							<div class="team-photo">
+								<img src="assets/img/colaboradores/Andre.jpg" alt="" data-at2x="assets/img/colaboradores/andre.jpg">
+							</div>
+							<h3>André Luiz de Castro Leal</h3>
+								
+							<div class="team-social">
+		        				<a target="_blank" href="http://lattes.cnpq.br/7302692557217402" target="_blank">lattes</a>
+		        			</div>
+						</div>
+	                </div>
+					</div>
+				</div>
+		    	</div>
+	        </div>
+		</div>
+
         <!-- parceiros -->
         <div class="block-1-container process-container section-container section-container-gray">
 	        <div class="container">
@@ -247,7 +273,7 @@
 	            	</div>
 	            </div>
 	        </div>
-        </div>
+		</div>
  
         <!-- Counters -->
         <div class="counters-container section-container section-container-full-bg">
@@ -311,7 +337,6 @@
         <!-- Galeria -->
         <div class="galeria-container section-container">
 	        <div class="container">
-	            <div class="row">
 	                <div class="col-sm-12 galeria section-description wow fadeIn">
 	                	<h2>Galeria</h2>
 	                	<div class="divider-1 wow fadeInUp"><span></span></div>
@@ -344,7 +369,6 @@
 		               	 </div>
 	               	 </div>
 	           	 </div>
-	        	</div>
        	   </div>
        	</div>
 

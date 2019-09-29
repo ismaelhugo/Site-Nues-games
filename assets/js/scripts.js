@@ -15,6 +15,11 @@ function small_slider_1(slider_container) {
     }
     img_index++;
   });
+
+  $('#meuModal').on('shown.bs.modal', function () {
+    $('#meuInput').trigger('focus')
+  })
+
   // change slide
   $(document).on(
     'click',
