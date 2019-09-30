@@ -41,7 +41,7 @@
 			<a class="scroll-link" href="#contact">Contato</a>
 			<a href="projetos.php">Projetos</a>
 			<a href="artigos.php">Artigos</a>
-			<a href="blog/blog.php">Blog</a>
+			<a href="blog.php">Blog</a>
 			<div class="hide-menu">
 				<a href=""><i class="fa fa-bars"></i></a>
 			</div>
