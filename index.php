@@ -98,7 +98,7 @@
                     <div class="col-sm-4 what-we-do-box wow fadeInDown">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-pencil"></i></div>
 	                    <h3>Blog</h3>
-	                    <p align="justify">Conheça nosso blog, onde criamos conteúdo sobre a área de games e inovação, com foco no planejamento e desenvolvimento de games. Se você quer conhecer mais sobre o desenvolvimento de jogos, <a href="">clique aqui</a> e comece a aprender.</p>
+	                    <p align="justify">Conheça nosso blog, onde criamos conteúdo sobre a área de games e inovação, com foco no planejamento e desenvolvimento de games. Se você quer conhecer mais sobre o desenvolvimento de jogos, <a href="blog.php">clique aqui</a> e comece a aprender.</p>
                     </div>
                     <div class="col-sm-4 what-we-do-box wow fadeInUp">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-youtube-play"></i></div>

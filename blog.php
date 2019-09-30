@@ -5,7 +5,7 @@
 	    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"/>
 	    <meta http-equiv="Content-Language" content="pt-br">
 
-        <title>Blog - NuES</title>
+        <title>Blog - NuESGames</title>
 
      <!-- CSS -->
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:400,700">
@@ -43,8 +43,8 @@
         <div class="top-content">
             <div class="top-content-text wow fadeInUp">
             	<h1><ha href="">Blog</a></h1>
-            	<p>Nesta parte, estão as publicações desenvolvidas pela equipe  NuES Games. Os artigos publicados pela a gente tem como foco o planejamento do desenvolvimento de games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Então escolha um título, clique sobre ele e comece a aprender</p>
-                <p><a href="blog-artigo1.php" target="_blank"> Desenvolvimento de Jogos: Mais difícil do que se pensa.</a></p>
+            	<p>Aqui estão as publicações desenvolvidas pelos colaboradores NuES Games. Os artigos publicados têm como foco o planejamento do desenvolvimento de games. Quer aprender sobre desenvolvimento de games? É só clicar em um dos títulos e começar a leitura!</p>
+                <p><a href="blog-artigo1.php" target="_blank"> Desenvolvimento de Jogos: mais difícil do que se pensa.</a></p>
 				<p><a href="blog-artigo2.php" target="_blank"> Engenharia de Software e Games.</a></p>
                 </div> 
         </div>
