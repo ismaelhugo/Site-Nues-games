@@ -85,7 +85,7 @@
                 	<div class="col-sm-4 what-we-do-box wow fadeInUp col-xs-12 col-sm-12 col-md-12 col-lg-12">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-gamepad"></i></div>
 	                    <h3>Jogos Sérios e de Entretenimento</h3>
-	                    <p>Nós da NuES Games pensamos na sua diversão! Criamos jogos para você preencher seu tempo com uma atividade extremamente prazerosa. Afinal, quem não curte jogar um bom game? Além disso, criamos jogos para ensiná-los de maneira rápida e objetiva alguma atividade.</p>
+	                    <p>Nós do NuES Games pensamos na sua diversão! Criamos jogos para você preencher seu tempo com uma atividade extremamente prazerosa. Afinal, quem não curte jogar um bom game? Além disso, criamos jogos para ensina-los de maneira rápida e objetiva alguma atividade.</p>
                     </div>
 	            </div>
 
@@ -93,17 +93,17 @@
                 	<div class="col-sm-4 what-we-do-box wow fadeInUp">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-book"></i></div>
 	                    <h3>Artigos</h3>
-	                    <p align="justify">Publicamos artigos desenvolvidos pelos alunos do coordenador André Castro sobre engenharia de software aplicada nos games. Confira esses trabalhos <a href="">clicando aqui</a></p>
+	                    <p align="justify">Publicamos artigos desenvolvidos pelos alunos do coordenador André Castro sobre engenharia de software aplicada a games. Confira alguns destes trabalhos <a href="artigos.php">clicando aqui</a></p>
                     </div>
                     <div class="col-sm-4 what-we-do-box wow fadeInDown">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-pencil"></i></div>
 	                    <h3>Blog</h3>
-	                    <p align="justify">Conheça nosso blog, onde criamos conteúdos sobre a área de games e inovação. Nosso foco é no planejamento e desenvolvimento dos games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Então <a href="">clique aqui</a> e começe a aprender</p>
+	                    <p align="justify">Conheça nosso blog, onde criamos conteúdo sobre a área de games e inovação, com foco no planejamento e desenvolvimento de games. Se você quer conhecer mais sobre o desenvolvimento de jogos, <a href="">clique aqui</a> e comece a aprender.</p>
                     </div>
                     <div class="col-sm-4 what-we-do-box wow fadeInUp">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-youtube-play"></i></div>
 	                    <h3>Youtube</h3>
-	                    <p align="justify">Ensinamos você e sua equipe como a Engenharia de Software pode ajudar no desenvolvimento de jogos. <a href="https://www.youtube.com/channel/UCUXN9Fb-Cv3dunwyC-xgJpg" target="_blank">Clique aqui</a> e conheça nosso canal no YouTube</p>
+	                    <p align="justify">Ensinamos você e sua equipe como a Engenharia de Software pode ajudar no desenvolvimento de jogos. Venha conhecer nosso <a href="https://www.youtube.com/channel/UCUXN9Fb-Cv3dunwyC-xgJpg" target="_blank">canal no YouTube</a>.</p>
                     </div>
 	            </div>
 	        </div>
@@ -142,11 +142,13 @@
 							<div class="team-photo">
 								<img src="assets/img/colaboradores/sand.jpg" alt="" data-at2x="assets/img/colaboradores/sand.jpg">
 							</div>
-							<h3>Sanderson Barbosa</h3>
+							<h3>Sanderson de Paula</h3>
 							<h4>Bolsista PIBIC 2019-2020</h4>
 								
 							<div class="team-social">
-								<a href="https://linkedin.com/in/sandbar0" target="_blank"><i class="fa fa-linkedin"></i></a>
+								<a href="https://linkedin.com/in/sandbar" target="_blank"><i class="fa fa-linkedin"></i></a>
+								<!-- <br> -->
+		        				<!-- <a target="_blank" href="http://lattes.cnpq.br/7302692557217402" target="_blank" style="font-family: Times New Roman; font-weight: bold;">lattes</a> -->
 							</div>
 						</div>
 	                </div>
@@ -177,17 +179,17 @@
 							</div>
 						</div>
 						
-						<div class="col-sm-4 team-box wow fadeInUp">
+ <!-- 						<div class="col-sm-4 team-box wow fadeInUp">
 							<div class="team-photo">
 								<img src="assets/img/colaboradores/user.png" alt="" data-at2x="assets/img/colaboradores/user.jpg">
 							</div>
 							<h3>Marcio Perdigão</h3>
 								
-							<!--<div class="team-social">
+							<div class="team-social">
 								<a href="https://linkedin.com/in/sandbar0" target="_blank"><i class="fa fa-linkedin"></i></a>
-							</div>-->
+							</div>
 						</div>
-
+ -->
 						<div class="col-sm-4 team-box wow fadeInUp">
 							<div class="team-photo">
 								<img src="assets/img/colaboradores/ruan.jpg" alt="" data-at2x="assets/img/colaboradores/ruan.jpg">
@@ -228,12 +230,12 @@
 						
 						<div class="col-sm-4 team-box wow fadeInUp">
 							<div class="team-photo">
-								<img src="assets/img/colaboradores/Andre.jpg" alt="" data-at2x="assets/img/colaboradores/andre.jpg">
+								<img src="assets/img/colaboradores/andre.jpg" alt="" data-at2x="assets/img/colaboradores/andre.jpg">
 							</div>
 							<h3>André Luiz de Castro Leal</h3>
 								
 							<div class="team-social">
-		        				<a target="_blank" href="http://lattes.cnpq.br/7302692557217402" target="_blank">lattes</a>
+		        				<a target="_blank" href="http://lattes.cnpq.br/7302692557217402" target="_blank" style="font-family: Times New Roman; font-weight: bold;">lattes</a>
 		        			</div>
 						</div>
 	                </div>
@@ -283,18 +285,18 @@
                     	<h4>1</h4>
                     	<p>Game Jam</p>
 	            	</div>
-	            	<div class="col-sm-3 counter-box wow fadeInDown">
-                    	<h4>8</h4>
-                    	<p>Colaboradores</p>
+	              	<div class="col-sm-3 counter-box wow fadeInUp">
+                    	<h4>4</h4>
+                    	<p>Vídeos</p>
 	            	</div>
 	            	<div class="col-sm-3 counter-box wow fadeInUp">
-                    	<h4>7565</h4>
-                    	<p>Linhas de código</p>
+                    	<h4>4</h4>
+                    	<p>Publicações</p>
 	            	</div>
 	            	<div class="col-sm-3 counter-box wow fadeInDown">
-                    	<h4>422</h4>
-                    	<p>Xícaras de café</p>
-	            	</div> 
+                    	<h4>6</h4>
+                    	<p>Colaboradores</p>
+	            	</div>
 	            </div>
         	</div>
         </div> 
@@ -307,7 +309,7 @@
 	                	<h2>Portfolio</h2>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
 	                    <p>
-	                    	Conheça um pouco mais do nosso trabalho. Clique sobre o jogo para fazer o download
+	                    	Conheça um pouco mais do nosso trabalho. Clique sobre o jogo para fazer o download.
 	                    </p>
 	                </div>
 	            </div>
