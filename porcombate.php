@@ -42,10 +42,10 @@
         <div class="top-content">
             <div class="top-content-text wow fadeInUp">
             	<h1><ha href="">Porcombate</a></h1>
-            	<p>O porcombate é um jogo multiplayer para PC, criado em 72 horas na game jam do evento Hacktudo 2018, realizado na cidade do Rio de Janeiro. O game ficou entre os 10 melhores da competição. <br> A ideia do jogo surgiu a partir do tema definido pela organização do evento: "Quando os porcos voam", que serviu de inspiração para a história do jogo.</p>
-                <h3 style="color: white;">A História</h3>
-                <p>O jogo se passa em uma tribo de porcos guerreiros e selvagens localizada na Floresta Amazônica. Nessa tribo, há um evento anual onde diversos porcos lutam entre si, competindo pelo sonhado par de asas. Essas asas os dão o status de guerreiro, e eles passam a ser parte do grupo de protetores da tribo contra os perigos da floresta.<br><br>
-                    <p>Baixe a versão apresentada na Game Jam do o PorCombate gratuitamente <a href="https://mega.nz/#!SDJzkYDZ!rVs2G9PTSJjvDb087KHZgUcNBEtmLwHAxbGeygAzfVo" target="_blank">clicando aqui</a></p>
+            	<p>O porcombate é um jogo multiplayer para PC, criado em apenas 72 horas na game jam do evento "Hacktudo" que ocorreu na cidade do Rio de Janeiro. O game ficou entre os 10 melhores da competição. <br> A ideia do jogo surgiu a partir do tema definido pela organização do evento: "Quando os porcos voam". A partir disso foi desenvolvido um brainstorming entre os representantes da NuES Games no evento, para a criação de história do game.</p>
+                <h3 style="color: white;">História do jogo</h3>
+                <p>A história do jogo se passa em uma tribo de porcos guerreiros e selvagens localizada na floresta amazônica. Nessa tribo, há um evento anual onde diversos porcos lutam entre si e o ganhador desses duelos são premiados com os sonhados pares de asas. Os pares de asas lhe dão o status de guerreiros dentro da tribo e a partir daí, esses porcos guerreiros poderam lutar para defender sua tribo dos perigos da floresta.<br><br>
+                    <p>Baixe a versão beta do nosso game gratuitamente <a href="https://mega.nz/#!SDJzkYDZ!rVs2G9PTSJjvDb087KHZgUcNBEtmLwHAxbGeygAzfVo" target="_blank">clicando aqui</a></p>
                 </p>
             </div> 
         </div>

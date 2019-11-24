@@ -42,36 +42,15 @@
         <div class="top-content">
             <div class="top-content-text wow fadeInUp">
             	<h1><ha href="">Artigos</a></h1>
-            	<p>Aqui estão alguns artigos e trabalhos publicados por alunos do Coordenador André Leal, tendo como tema principal a engenharia de software e games. Clique no nome do artigo para baixa-lo. </p>
-            	
-            	<p>
-            		<ul>
-	            		<hr>
-	            	 	<li><a href="https://drive.google.com/open?id=1abadL1m05ZDY4jO-CYBrif183mAZf46N" target="_blank">Modelagem de qualidade com o uso de iStar Framework</a></li>
-	            	 	<br>
-	            	 	<li><a href="https://drive.google.com/open?id=19WD4xzrEPAA8M7nTXqc-8AvUIiX4Vftg" target="_blank">Aspectos de Jogabilidade Modelados com NFR Framework em Jogos MMORPG e MOBA</a></li>
-	            	 	<br><hr>
-            	 	</ul>
-	            	Klemer Monteiro
-	            </p>
-	            
-	            <p>
-	            	<ul>
-		            	<hr>
-		            	<li><a href="https://drive.google.com/open?id=1V2THl2jmAwcgg0XxODdwnDT2ItzOVLUg" target="_blank">Non-functional Requirements Framework: Influências na qualidade de jogos de entretenimento com temática role-playing game.</a></li>
-		            	<br><hr>
-		            </ul>
-	            	Gustavo Garcia
-	        	</p>
-
-	            <p>
-	            	<ul>
-		            	<hr>
-		            	<li><a href="https://drive.google.com/open?id=157y3KIY06vrRp1bIVZoqGHIwlqh6kU9D">Destaque para o Requisito Não Funcional de Segurança em Jogos Multiplayer Online</a></li>
-		            	<hr>
-	            	</ul>
-	            	Ana Clara Correa
-	            </p>
+            	<p>Aqui estão alguns artigos e trabalhos publicados por alunos do Prof. André Castro tendo como tema principal a engenharia de software voltada a games. Faça download do arquivo clicando sobre ele. Os 
+				artigos são produtos da disciplina Tópicos Avançados em Engenharia de Software no 2o semestre de 2018. Disciplina oferecida com o objetivo do ensino Modelagem Orientada a Objetivos (GORE - Goal Oriented Requirement Engineering)</p>
+            	<p><a href="https://drive.google.com/open?id=19WD4xzrEPAA8M7nTXqc-8AvUIiX4Vftg" target="_blank">Klemer Monteiro - Aspectos de Jogabilidade Modelados com NFR Framework em Jogos MMORPG e MOBA</a></p>
+	            <p><a href="https://drive.google.com/open?id=1V2THl2jmAwcgg0XxODdwnDT2ItzOVLUg" target="_blank">Gustavo Garcia - Functional Requeriments Frameworks: Influências na qualidade de jogos de entreterimento com temática role-playing game</a></p>
+	            <p><a href="https://drive.google.com/open?id=1abadL1m05ZDY4jO-CYBrif183mAZf46N" target="_blank">Klemer Monteiro - Modelagem de qualidade com o uso de iStar Framework</a></p>
+	            <p><a href="https://drive.google.com/open?id=157y3KIY06vrRp1bIVZoqGHIwlqh6kU9D">Ana Clara Correa - Destaque para o Requisito Não Funcional de Segurança em Jogos Multiplayer Online</a></p>
+            	<div class="">
+            		<a class="" href="#about"></a>
+            	</div>
             </div> 
         </div>
         <!-- Javascript -->
