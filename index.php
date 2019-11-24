@@ -1,10 +1,10 @@
-<?php header("content-type: text/html; charset=ISO-8859-1"); ?>
 <html lang="pt-br">
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
-        <meta http-equiv="Content-Language" content="pt-br">
+		<meta http-equiv="Content-Language" content="pt-br">
+		<meta charset="UTF-8">
         <title>NuES Games</title>
 
         <!-- CSS -->
@@ -35,9 +35,9 @@
 		
 		<!-- menu -->
 		<nav>
-			<a class="scroll-link" href="#top-content">Página Inicial</a>
+			<a class="scroll-link" href="#top-content">PÃ¡gina Inicial</a>
 			<a class="scroll-link" href="#what-we-do">Sobre</a>
-			<a class="scroll-link" href="#portfolio">Portfólio</a>
+			<a class="scroll-link" href="#portfolio">PortfÃ³lio</a>
 			<a class="scroll-link" href="#contact">Contato</a>
 			<a href="projetos.php">Projetos</a>
 			<a href="artigos.php">Artigos</a>
@@ -69,23 +69,23 @@
 	            <div class="row">
 	                <div class="col-sm-12 what-we-do section-description wow fadeIn">
 	                    <h2>NuES Games</h2>
-	                    <h3>"Conhecimento além da sala de aula"</h3>
+	                    <h3>"Conhecimento alÃ©m da sala de aula"</h3>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
 	                    <p align="justify">
-	                    	O Núcleo de Práticas de Engenharia de Software Aplicadas a Games (NuESGames) 
-	                    	surge a partir do Programa de Extensão de Engenharia de Software e Jogos Digitais proposto pelo professor 
-	                    	André Luiz de Castro Leal, D. Sc., junto ao Departamento de Computação (DECOMP/ICE/UFRRJ) 
-	                    	e registrado na Pro-Reitoria de Extensão da UFRRJ. Temos como objetivo 
-	                    	aplicar conhecimentos da Engenharia de Software na criação de jogos digitais a fim de  
-							possibilitar aos alunos e demais envolvidos absorver de forma prática os ensinamentos da Engenharia de Software.  
+	                    	O NÃºcleo de PrÃ¡ticas de Engenharia de Software Aplicadas a Games (NuESGames) 
+	                    	surge a partir do Programa de ExtensÃ£o de Engenharia de Software e Jogos Digitais proposto pelo professor 
+	                    	AndrÃ© Luiz de Castro Leal, D. Sc., junto ao Departamento de ComputaÃ§Ã£o (DECOMP/ICE/UFRRJ) 
+	                    	e registrado na Pro-Reitoria de ExtensÃ£o da UFRRJ. Temos como objetivo 
+	                    	aplicar conhecimentos da Engenharia de Software na criaÃ§Ã£o de jogos digitais a fim de  
+							possibilitar aos alunos e demais envolvidos absorver de forma prÃ¡tica os ensinamentos da Engenharia de Software.  
 	                    </p>
 	                </div>
 	            </div>
 	            <div class="row">
                 	<div class="col-sm-4 what-we-do-box wow fadeInUp col-xs-12 col-sm-12 col-md-12 col-lg-12">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-gamepad"></i></div>
-	                    <h3>Jogos Sérios e de Entretenimento</h3>
-	                    <p>Nós da NuES Games pensamos na sua diversão! Criamos jogos para você preencher seu tempo com uma atividade extremamente prazerosa. Afinal, quem não curte jogar um bom game? Além disso, criamos jogos para ensiná-los de maneira rápida e objetiva alguma atividade.</p>
+	                    <h3>Jogos SÃ©rios e de Entretenimento</h3>
+	                    <p>NÃ³s da NuES Games pensamos na sua diversÃ£o! Criamos jogos para vocÃª preencher seu tempo com uma atividade extremamente prazerosa. Afinal, quem nÃ£o curte jogar um bom game? AlÃ©m disso, criamos jogos para ensinÃ¡-los de maneira rÃ¡pida e objetiva alguma atividade.</p>
                     </div>
 	            </div>
 
@@ -93,21 +93,21 @@
                 	<div class="col-sm-4 what-we-do-box wow fadeInUp">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-book"></i></div>
 	                    <h3>Artigos</h3>
-	                    <p align="justify">Publicamos artigos desenvolvidos pelos alunos do coordenador André Castro sobre engenharia de software aplicada nos games. Confira esses trabalhos <a href="">clicando aqui</a></p>
+	                    <p align="justify">Publicamos artigos desenvolvidos pelos alunos do coordenador AndrÃ© Castro sobre engenharia de software aplicada nos games. Confira esses trabalhos <a href="">clicando aqui</a></p>
                     </div>
                     <div class="col-sm-4 what-we-do-box wow fadeInDown">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-pencil"></i></div>
 	                    <h3>Blog</h3>
-	                    <p align="justify">Conheça nosso blog, onde criamos conteúdos sobre a área de games e inovação. Nosso foco é no planejamento e desenvolvimento dos games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Então <a href="">clique aqui</a> e começe a aprender</p>
+	                    <p align="justify">ConheÃ§a nosso blog, onde criamos conteÃºdos sobre a Ã¡rea de games e inovaÃ§Ã£o. Nosso foco Ã© no planejamento e desenvolvimento dos games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? EntÃ£o <a href="">clique aqui</a> e comeÃ§e a aprender</p>
                     </div>
                     <div class="col-sm-4 what-we-do-box wow fadeInUp">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-youtube-play"></i></div>
 	                    <h3>Youtube</h3>
-	                    <p align="justify">Ensinamos você e sua equipe como a Engenharia de Software pode ajudar no desenvolvimento de jogos. <a href="https://www.youtube.com/channel/UCUXN9Fb-Cv3dunwyC-xgJpg" target="_blank">Clique aqui</a> e conheça nosso canal no YouTube</p>
+	                    <p align="justify">Ensinamos vocÃª e sua equipe como a Engenharia de Software pode ajudar no desenvolvimento de jogos. <a href="https://www.youtube.com/channel/UCUXN9Fb-Cv3dunwyC-xgJpg" target="_blank">Clique aqui</a> e conheÃ§a nosso canal no YouTube</p>
                     </div>
 	            </div>
 	        </div>
-        </div>
+		</div>
         
                 <!-- Team -->
         <div class="team-container section-container">
@@ -131,7 +131,7 @@
 								<img src="assets/img/colaboradores/nathan.jpg" alt="" data-at2x="assets/img/colaboradores/nathan.jpg">
 							</div>
 							<h3>Nathan Munis</h3>
-							<h4>Bolsista FAPERJ Iniciação Tecnológica 2019-2020</h4>
+							<h4>Bolsista FAPERJ IniciaÃ§Ã£o TecnolÃ³gica 2019-2020</h4>
 							
 							<div class="team-social">
 								<a href="https://www.linkedin.com/in/nathanmunisdesantana/" target="_blank"><i class="fa fa-linkedin"></i></a>
@@ -166,6 +166,16 @@
 	            </div>
 
 	                <div class="row">
+					<div class="col-sm-4 team-box wow fadeInUp">
+							<div class="team-photo">
+								<img src="assets/img/colaboradores/Ana.jpg" alt="" data-at2x="assets/img/colaboradores/Ana.jpg">
+							</div>
+							<h3>Ana Clara</h3>
+							
+							<div class="team-social">
+								<a href="https://www.linkedin.com/in/ana-clara-correa-da-silva-5a4a05149/" target="_blank"><i class="fa fa-linkedin"></i></a>
+							</div>
+						</div>
 						<div class="col-sm-4 team-box wow fadeInUp">
 							<div class="team-photo">
 								<img src="assets/img/colaboradores/ismael.jpg" alt="" data-at2x="assets/img/colaboradores/ismael.jpg">
@@ -179,17 +189,6 @@
 						
 						<div class="col-sm-4 team-box wow fadeInUp">
 							<div class="team-photo">
-								<img src="assets/img/colaboradores/user.png" alt="" data-at2x="assets/img/colaboradores/user.jpg">
-							</div>
-							<h3>Marcio Perdigão</h3>
-								
-							<!--<div class="team-social">
-								<a href="https://linkedin.com/in/sandbar0" target="_blank"><i class="fa fa-linkedin"></i></a>
-							</div>-->
-						</div>
-
-						<div class="col-sm-4 team-box wow fadeInUp">
-							<div class="team-photo">
 								<img src="assets/img/colaboradores/ruan.jpg" alt="" data-at2x="assets/img/colaboradores/ruan.jpg">
 							</div>
 							<h3>Ruan Ferreira</h3>
@@ -199,16 +198,7 @@
 							</div>
 						</div>
 
-						<div class="col-sm-4 team-box wow fadeInUp">
-							<div class="team-photo">
-								<img src="assets/img/colaboradores/tiago.jpg" alt="" data-at2x="assets/img/colaboradores/tiago.jpg">
-							</div>
-							<h3>Tiago Silveira</h3>
-							
-							<div class="team-social">
-								<a href="https://www.linkedin.com/in/tiago-silveira-6b273b10a/" target="_blank"><i class="fa fa-linkedin"></i></a>
-							</div>
-						</div>
+						
 	                </div>
 					</div>
 				</div>
@@ -230,7 +220,7 @@
 							<div class="team-photo">
 								<img src="assets/img/colaboradores/Andre.jpg" alt="" data-at2x="assets/img/colaboradores/andre.jpg">
 							</div>
-							<h3>André Luiz de Castro Leal</h3>
+							<h3>AndrÃ© Luiz de Castro Leal</h3>
 								
 							<div class="team-social">
 		        				<a target="_blank" href="http://lattes.cnpq.br/7302692557217402" target="_blank">lattes</a>
@@ -266,15 +256,15 @@
 	            	</div>
 	            	<div class="col-sm-6 block-1-right wow fadeInUp">
 	            		<h3><a href="http://www.signaljunior.com.br" target="_blank">Signal Jr.</a></h3>
-	            		<p>A Signal Jr. é a empresa Júnior de TI da Universidade Federal Rural do Rio de Janeiro. 
-	            			Atua desenvolvendo soluções tecnológicas e manutenção de sistemas em várias cidades do Brasil.
-	            			Conheça a <a href="http://www.signaljunior.com.br" target="_blank">Signal</a> e seus serviços.</p>
+	            		<p>A Signal Jr. Ã© a empresa JÃºnior de TI da Universidade Federal Rural do Rio de Janeiro. 
+	            			Atua desenvolvendo soluÃ§Ãµes tecnolÃ³gicas e manutenÃ§Ãµes de sistemas em vÃ¡rias cidades do Brasil.
+	            			ConheÃ§a a <a href="http://www.signaljunior.com.br" target="_blank">Signal</a> e seus serviÃ§os.</p>
 	        
 	            	</div>
 	            </div>
 	        </div>
 		</div>
- 
+
         <!-- Counters -->
         <div class="counters-container section-container section-container-full-bg">
         	<div class="container">
@@ -289,11 +279,11 @@
 	            	</div>
 	            	<div class="col-sm-3 counter-box wow fadeInUp">
                     	<h4>7565</h4>
-                    	<p>Linhas de código</p>
+                    	<p>Linhas de cÃ³digo</p>
 	            	</div>
 	            	<div class="col-sm-3 counter-box wow fadeInDown">
                     	<h4>422</h4>
-                    	<p>Xícaras de café</p>
+                    	<p>XÃ­caras de cafÃ©</p>
 	            	</div> 
 	            </div>
         	</div>
@@ -307,7 +297,7 @@
 	                	<h2>Portfolio</h2>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
 	                    <p>
-	                    	Conheça um pouco mais do nosso trabalho. Clique sobre o jogo para fazer o download
+	                    	ConheÃ§a um pouco mais do nosso trabalho. Clique sobre o jogo para fazer o download
 	                    </p>
 	                </div>
 	            </div>
@@ -315,7 +305,7 @@
 	            	<div class="col-sm-12 portfolio-filters wow fadeInUp">
 	            		<a href="#" class="filter-all active">Todos</a> / 
 	            		<a href="#" class="filter-design">Entretenimento</a> / 
-	            		<a href="#" class="filter-development">Sério</a> / 
+	            		<a href="#" class="filter-development">SÃ©rio</a> / 
 	            	</div>
 	            </div>
 	            <div class="row">
@@ -380,7 +370,7 @@
 	                	<h2>Contato</h2>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
 	                    <p>
-	                    	Ficou interessado ou tem alguma dúvida sobre nosso trabalho? Entre em contato conosco através do formulário abaixo. Ou, se preferir, nos envie um email diretamente em <span style="color: rgb(0,0,0);">nuesgames@gmail.com</span> 
+	                    	Ficou interessado ou tem alguma dÃºvida sobre nosso trabalho? Entre em contato conosco atravÃ©s do formulÃ¡rio abaixo. Ou, se preferir, nos envie um email diretamente em <span style="color: rgb(0,0,0);">nuesgames@gmail.com</span> 
 	                    </p>
 	                </div>
 	            </div>
