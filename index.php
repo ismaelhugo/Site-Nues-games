@@ -102,7 +102,7 @@
 	                	<div class="what-we-do-box-icon"><i class="fa fa-pencil"></i></div>
 	                    <h3>Blog</h3>
 
-	                    <p align="justify">Conheça nosso blog, onde criamos conteúdos sobre a área de games e inovação. Nosso foco é no planejamento e desenvolvimento dos games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Então <a href="">clique aqui</a> e começe a aprender</p>
+	                    <p align="justify">Conheça nosso blog, onde criamos conteúdos sobre a área de games e inovação. Nosso foco é no planejamento e desenvolvimento dos games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Então <a href="http://r1.ufrrj.br/nuesgames/blog.php">clique aqui</a> e começe a aprender</p>
 
                     </div>
                     <div class="col-sm-4 what-we-do-box wow fadeInUp">
