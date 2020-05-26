@@ -1,4 +1,4 @@
-<?php header("content-type: text/html; charset=ISO-8859-1"); ?>
+<!-- <?php header("content-type: text/html; charset=ISO-8859-1"); ?> -->
 <html lang="pt-br">
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,9 +35,9 @@
 		
 		<!-- menu -->
 		<nav>
-			<a class="scroll-link" href="#top-content">P·gina Inicial</a>
+			<a class="scroll-link" href="#top-content">P√°gina Inicial</a>
 			<a class="scroll-link" href="#what-we-do">Sobre</a>
-			<a class="scroll-link" href="#portfolio">PortfÛlio</a>
+			<a class="scroll-link" href="#portfolio">Portf√≥lio</a>
 			<a class="scroll-link" href="#contact">Contato</a>
 			<a href="projetos.php">Projetos</a>
 			<a href="artigos.php">Artigos</a>
@@ -69,23 +69,36 @@
 	            <div class="row">
 	                <div class="col-sm-12 what-we-do section-description wow fadeIn">
 	                    <h2>NuES Games</h2>
-	                    <h3>"Conhecimento alÈm da sala de aula"</h3>
+	                    <h3>"Conhecimento al√©m da sala de aula"</h3>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
 	                    <p align="justify">
-	                    	O N˙cleo de Pr·ticas de Engenharia de Software Aplicadas a Games (NuESGames) 
-	                    	surge a partir do Programa de Extens„o de Engenharia de Software e Jogos Digitais proposto pelo professor 
-	                    	AndrÈ Luiz de Castro Leal, D. Sc., junto ao Departamento de ComputaÁ„o (DECOMP/ICE/UFRRJ) 
-	                    	e registrado na Pro-Reitoria de Extens„o da UFRRJ. Temos como objetivo 
-	                    	aplicar conhecimentos da Engenharia de Software na criaÁ„o de jogos digitais a fim de  
-							possibilitar aos alunos e demais envolvidos absorver de forma pr·tica os ensinamentos da Engenharia de Software.  
+	                    	O N√∫cleo de Pr√°ticas de Engenharia de Software Aplicadas a Games (NuESGames) 
+	                    	surge a partir do Programa de Extens√£o de Engenharia de Software e Jogos Digitais proposto pelo professor 
+	                    	Andr√© Luiz de Castro Leal, D. Sc., junto ao Departamento de Computa√ß√£o (DECOMP/ICE/UFRRJ) 
+	                    	e registrado na Pro-Reitoria de Extens√£o da UFRRJ. Temos como objetivo 
+	                    	aplicar conhecimentos da Engenharia de Software na cria√ß√£o de jogos digitais a fim de  
+							possibilitar aos alunos e demais envolvidos absorver de forma pr√°tica os ensinamentos da Engenharia de Software.  
 	                    </p>
 	                </div>
 	            </div>
 	            <div class="row">
                 	<div class="col-sm-4 what-we-do-box wow fadeInUp col-xs-12 col-sm-12 col-md-12 col-lg-12">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-gamepad"></i></div>
-	                    <h3>Jogos SÈrios e de Entretenimento</h3>
-	                    <p>NÛs da NuES Games pensamos na sua divers„o! Criamos jogos para vocÍ preencher seu tempo com uma atividade extremamente prazerosa. Afinal, quem n„o curte jogar um bom game? AlÈm disso, criamos jogos para ensin·-los de maneira r·pida e objetiva alguma atividade.</p>
+	                    <h3>Jogos S√©rios e de Entretenimento</h3>
+	                    <p  align="justify">N√≥s da NuES Games pensamos na sua divers√£o! Criamos jogos para voc√™ preencher seu tempo com uma atividade extremamente prazerosa. Afinal, quem n√£o curte jogar um bom game? Al√©m disso, criamos jogos para ensin√°-los de maneira r√°pida e objetiva alguma atividade.</p>
+
+                    </div>
+				</div>
+				
+				<div class="row">
+                	<div class="col-sm-4 what-we-do-box wow fadeInUp col-xs-12 col-sm-12 col-md-12 col-lg-12">
+	                	<div class="what-we-do-box-icon"><i class="fa fa-refresh"></i></div>
+	                    <h3>Processo de cria√ß√£o de Jogos digitais</h3>
+	                    <p align="justify">Voc√™ sabia que a NuES games tem um processo de cria√ß√£o pr√≥prio? O processo de desenvolvimento de jogos digitais desenvolvido pelos membros do NuESGames,
+							tendo como base a literatura formal de engenharia de jogos, conta com as seguintes etapas
+							principais: 1) Concep√ß√£o, Pr√©-produ√ß√£o, Produ√ß√£o, P√≥s-produ√ßao, e P√≥s-lan√ßamento. Cada uma
+							dessas etapas conta com subprocessos e tarefas espec√≠ficas para dar suporte √† produ√ß√£o de um jogo
+							digital completo, de escopo vari√°vel. Conhe√ßa esse processo <a href="http://r1.ufrrj.br/nuesgames/processo.php">clicando aqui</a></p>
 
                     </div>
 	            </div>
@@ -95,20 +108,20 @@
 	                	<div class="what-we-do-box-icon"><i class="fa fa-book"></i></div>
 	                    <h3>Artigos</h3>
 
-	                    <p align="justify">Publicamos artigos desenvolvidos pelos alunos do coordenador AndrÈ Castro sobre engenharia de software aplicada nos games. Confira esses trabalhos <a href="http://r1.ufrrj.br/nuesgames/artigos.php">clicando aqui</a></p>
+	                    <p align="justify">Publicamos artigos desenvolvidos pelos alunos do coordenador Andr√© Castro sobre engenharia de software aplicada nos games. Confira esses trabalhos <a href="http://r1.ufrrj.br/nuesgames/artigos.php">clicando aqui</a></p>
 
                     </div>
                     <div class="col-sm-4 what-we-do-box wow fadeInDown">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-pencil"></i></div>
 	                    <h3>Blog</h3>
 
-	                    <p align="justify">ConheÁa nosso blog, onde criamos conte˙dos sobre a ·rea de games e inovaÁ„o. Nosso foco È no planejamento e desenvolvimento dos games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Ent„o <a href="http://r1.ufrrj.br/nuesgames/blog.php">clique aqui</a> e comeÁe a aprender</p>
+	                    <p align="justify">Conhe√ßa nosso blog, onde criamos conte√∫dos sobre a √°rea de games e inova√ß√£o. Nosso foco √© no planejamento e desenvolvimento dos games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Ent√£o <a href="http://r1.ufrrj.br/nuesgames/blog.php">clique aqui</a> e come√ße a aprender</p>
 
                     </div>
                     <div class="col-sm-4 what-we-do-box wow fadeInUp">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-youtube-play"></i></div>
 	                    <h3>Youtube</h3>
-	                    <p align="justify">Ensinamos vocÍ e sua equipe como a Engenharia de Software pode ajudar no desenvolvimento de jogos. <a href="https://www.youtube.com/channel/UCUXN9Fb-Cv3dunwyC-xgJpg" target="_blank">Clique aqui</a> e conheÁa nosso canal no YouTube</p>
+	                    <p align="justify">Ensinamos voc√™ e sua equipe como a Engenharia de Software pode ajudar no desenvolvimento de jogos. <a href="https://www.youtube.com/channel/UCUXN9Fb-Cv3dunwyC-xgJpg" target="_blank">Clique aqui</a> e conhe√ßa nosso canal no YouTube</p>
 
                     </div>
 	            </div>
@@ -137,7 +150,7 @@
 								<img src="assets/img/colaboradores/nathan.jpg" alt="" data-at2x="assets/img/colaboradores/nathan.jpg">
 							</div>
 							<h3>Nathan Munis</h3>
-							<h4>Bolsista FAPERJ IniciaÁ„o TecnolÛgica 2019-2020</h4>
+							<h4>Bolsista FAPERJ Inicia√ß√£o Tecnol√≥gica 2019-2020</h4>
 							
 							<div class="team-social">
 								<a href="https://www.linkedin.com/in/nathanmunisdesantana/" target="_blank"><i class="fa fa-linkedin"></i></a>
@@ -227,7 +240,7 @@
 							<div class="team-photo">
 								<img src="assets/img/colaboradores/andre.jpg" alt="" data-at2x="assets/img/colaboradores/andre.jpg">
 							</div>
-							<h3>AndrÈ Luiz de Castro Leal</h3>
+							<h3>Andr√© Luiz de Castro Leal</h3>
 								
 							<div class="team-social">
 		        				<a target="_blank" href="http://lattes.cnpq.br/7302692557217402" target="_blank">lattes</a>
@@ -263,9 +276,9 @@
 	            	</div>
 	            	<div class="col-sm-6 block-1-right wow fadeInUp">
 	            		<h3><a href="http://www.signaljunior.com.br" target="_blank">Signal Jr.</a></h3>
-	            		<p>A Signal Jr. È a empresa J˙nior de TI da Universidade Federal Rural do Rio de Janeiro. 
-	            			Atua desenvolvendo soluÁıes tecnolÛgicas e manutenÁıes de sistemas em v·rias cidades do Brasil.
-	            			ConheÁa a <a href="http://www.signaljunior.com.br" target="_blank">Signal</a> e seus serviÁos.</p>
+	            		<p>A Signal Jr. √© a empresa J√∫nior de TI da Universidade Federal Rural do Rio de Janeiro. 
+	            			Atua desenvolvendo solu√ß√µes tecnol√≥gicas e manuten√ß√µes de sistemas em v√°rias cidades do Brasil.
+	            			Conhe√ßa a <a href="http://www.signaljunior.com.br" target="_blank">Signal</a> e seus servi√ßos.</p>
 	        
 	            	</div>
 	            </div>
@@ -287,11 +300,11 @@
 	            	<div class="col-sm-3 counter-box wow fadeInUp">
 
                     	<h4>7565</h4>
-                    	<p>Linhas de cÛdigo</p>
+                    	<p>Linhas de c√≥digo</p>
 	            	</div>
 	            	<div class="col-sm-3 counter-box wow fadeInDown">
                     	<h4>422</h4>
-                    	<p>XÌcaras de cafÈ</p>
+                    	<p>X√≠caras de caf√©</p>
 	            	</div> 
 	            </div>
         	</div>
@@ -305,14 +318,14 @@
 	                	<h2>Portfolio</h2>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
 	                    <p>
-	                    	ConheÁa um pouco mais do nosso trabalho. Clique sobre o jogo para fazer o download </p>
+	                    	Conhe√ßa um pouco mais do nosso trabalho. Clique sobre o jogo para fazer o download </p>
 	                </div>
 	            </div>
 	            <div class="row">
 	            	<div class="col-sm-12 portfolio-filters wow fadeInUp">
 	            		<a href="#" class="filter-all active">Todos</a> / 
 	            		<a href="#" class="filter-design">Entretenimento</a> / 
-	            		<a href="#" class="filter-development">SÈrio</a> / 
+	            		<a href="#" class="filter-development">S√©rio</a> / 
 	            	</div>
 	            </div>
 	            <div class="row">
@@ -335,9 +348,9 @@
 	        <div class="container">
 			<div class="row">
 	                <div class="col-sm-12 block-1 section-description wow fadeIn">
-	                	<h2>NotÌcias</h2>
+	                	<h2>Not√≠cias</h2>
 						<div class="divider-1 wow fadeInUp"><span></span></div>
-						<p>Acompanhe a NuES Games! Aqui est„o algumas das nossas ultimas novidades:</p>
+						<p>Acompanhe a NuES Games! Aqui est√£o algumas das nossas ultimas novidades:</p>
 	                </div>
 	        </div>
 	            <div class="row">
@@ -345,28 +358,28 @@
 				<img src=".\assets\img\noticias\ana.jpg" class="card-img-top" alt="...">
 				<div class="card-body">
 					<h5 class="card-title" style="color:black">Colaboradora do NuES Games tem artigo aprovado na SBGames</h5>
-					<p class="card-text">Ana Clara Silva, colaboradora do n˙cleo,
-						 tem artigo aprovado no maior evento acadÍmico da AmÈrica latina na ·rea de jogos digitais,
-						  denominado SBGames. O artigo sobre "Abordagem para Requisito N„o Funcional em Jogos Digitais" foi aprovado na categoria G2 e se encontra disponivel para leitura na p·gina do SBGames. 
+					<p class="card-text">Ana Clara Silva, colaboradora do n√∫cleo,
+						 tem artigo aprovado no maior evento acad√™mico da Am√©rica latina na √°rea de jogos digitais,
+						  denominado SBGames. O artigo sobre "Abordagem para Requisito N√£o Funcional em Jogos Digitais" foi aprovado na categoria G2 e se encontra disponivel para leitura na p√°gina do SBGames. 
 						Para ler o artigo publicado, <a href="https://www.sbgames.org/sbgames2019/files/papers/WorkshopG2/199921.pdf" target="_blank">clique aqui</a> </p>
 				</div>
 				</div>
 				<div class="card mr-3 col-sm" style="width: 15rem;">
 				<img src=".\assets\img\noticias\video.png" class="card-img-top" alt="...">
 				<div class="card-body">
-					<h5 class="card-title" style="color:black">NuES Games publica novo vÌdeo em seu canal no youtube</h5>
-					<p class="card-text">O novo vÌdeo lanÁado no dia 24 de novembro no youtube tem como tema o Scrum
-						 e como ele È usado no apoio para o desenvolvimento de Jogos Digitais.
-						  Assista o vÌdeo <a href="https://www.youtube.com/watch?v=_0PPmQTkqOA&t=325s">clicando aqui</a> </p>
+					<h5 class="card-title" style="color:black">NuES Games publica novo v√≠deo em seu canal no youtube</h5>
+					<p class="card-text">O novo v√≠deo lan√ßado no dia 24 de novembro no youtube tem como tema o Scrum
+						 e como ele √© usado no apoio para o desenvolvimento de Jogos Digitais.
+						  Assista o v√≠deo <a href="https://www.youtube.com/watch?v=_0PPmQTkqOA&t=325s">clicando aqui</a> </p>
 				</div>
 				</div>
 				<div class="card mr-3 col-sm" style="width: 15rem;">
 				<img src=".\assets\img\noticias\tres-rios.jpeg" class="card-img-top" alt="...">
 				<div class="card-body">
-					<h5 class="card-title" style="color:black">Colaboradores do NuES participaram de workshop em TrÍs Rios</h5>
-					<p class="card-text">O primeiro workshop para debater caminhos para o desenvolvimento do ecossistema de inovaÁ„o da regi„o Sul Fluminense realizado pelo SEBRAE ocorreu na cidade
-						de TrÍs Rios-RJ no dia 24 de outubro. Os colaboradores do NuES Games marcaram presenÁa no evento, no intuito de ajudar a traÁar um plano de aÁ„o para 
-						que a regi„o chegue ao posto de referÍncia em inovaÁ„o no estado do Rio de Janeiro. 
+					<h5 class="card-title" style="color:black">Colaboradores do NuES participaram de workshop em Tr√™s Rios</h5>
+					<p class="card-text">O primeiro workshop para debater caminhos para o desenvolvimento do ecossistema de inova√ß√£o da regi√£o Sul Fluminense realizado pelo SEBRAE ocorreu na cidade
+						de Tr√™s Rios-RJ no dia 24 de outubro. Os colaboradores do NuES Games marcaram presen√ßa no evento, no intuito de ajudar a tra√ßar um plano de a√ß√£o para 
+						que a regi√£o chegue ao posto de refer√™ncia em inova√ß√£o no estado do Rio de Janeiro. 
 					</p>
 				</div>
 				</div>
@@ -420,7 +433,7 @@
 	                	<h2>Contato</h2>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
 	                    <p>
-	                    	Ficou interessado ou tem alguma d˙vida sobre nosso trabalho? Entre em contato conosco atravÈs do formul·rio abaixo. Ou, se preferir, nos envie um email diretamente em <span style="color: rgb(0,0,0);">nuesgames@gmail.com</span> 
+	                    	Ficou interessado ou tem alguma d√∫vida sobre nosso trabalho? Entre em contato conosco atrav√©s do formul√°rio abaixo. Ou, se preferir, nos envie um email diretamente em <span style="color: rgb(0,0,0);">nuesgames@gmail.com</span> 
 	                    </p>
 	                </div>
 	            </div>
