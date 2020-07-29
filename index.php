@@ -1,4 +1,4 @@
-<?php header("content-type: text/html; charset=ISO-8859-1"); ?>
+<!-- <?php header("content-type: text/html; charset=ISO-8859-1"); ?> -->
 <html lang="pt-br">
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -85,7 +85,24 @@
                 	<div class="col-sm-4 what-we-do-box wow fadeInUp col-xs-12 col-sm-12 col-md-12 col-lg-12">
 	                	<div class="what-we-do-box-icon"><i class="fa fa-gamepad"></i></div>
 	                    <h3>Jogos Sérios e de Entretenimento</h3>
+<<<<<<< HEAD
 	                    <p>Nós da NuES Games pensamos na sua diversão! Criamos jogos para você preencher seu tempo com uma atividade extremamente prazerosa. Afinal, quem não curte jogar um bom game? Além disso, criamos jogos para ensiná-los de maneira rápida e objetiva alguma atividade.</p>
+=======
+	                    <p  align="justify">Nós da NuES Games pensamos na sua diversão! Criamos jogos para você preencher seu tempo com uma atividade extremamente prazerosa. Afinal, quem não curte jogar um bom game? Além disso, criamos jogos para ensiná-los de maneira rápida e objetiva alguma atividade.</p>
+
+                    </div>
+				</div>
+				
+				<div class="row">
+                	<div class="col-sm-4 what-we-do-box wow fadeInUp col-xs-12 col-sm-12 col-md-12 col-lg-12">
+	                	<div class="what-we-do-box-icon"><i class="fa fa-refresh"></i></div>
+	                    <h3>Processo de criação de Jogos digitais</h3>
+	                    <p align="justify">Você sabia que a NuES games tem um processo de criação próprio? O processo de desenvolvimento de jogos digitais desenvolvido pelos membros do NuESGames,
+							tendo como base a literatura formal de engenharia de jogos, conta com as seguintes etapas
+							principais: 1) Concepção, Pré-produção, Produção, Pós-produçao, e Pós-lançamento. Cada uma
+							dessas etapas conta com subprocessos e tarefas específicas para dar suporte à produção de um jogo
+							digital completo, de escopo variável. Conheça esse processo <a href="http://r1.ufrrj.br/nuesgames/processo.php">clicando aqui</a></p>
+>>>>>>> aad93e76123e0505ee6561934b3d165822d3e10e
 
                     </div>
 	            </div>
@@ -102,7 +119,11 @@
 	                	<div class="what-we-do-box-icon"><i class="fa fa-pencil"></i></div>
 	                    <h3>Blog</h3>
 
+<<<<<<< HEAD
 	                    <p align="justify">Conheça nosso blog, onde criamos conteúdos sobre a área de games e inovação. Nosso foco é no planejamento e desenvolvimento dos games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Então <a href="">clique aqui</a> e comece a aprender</p>
+=======
+	                    <p align="justify">Conheça nosso blog, onde criamos conteúdos sobre a área de games e inovação. Nosso foco é no planejamento e desenvolvimento dos games. Quer conhecer mais sobre o desenvolvimento de jogos? Sim? Então <a href="http://r1.ufrrj.br/nuesgames/blog.php">clique aqui</a> e começe a aprender</p>
+>>>>>>> aad93e76123e0505ee6561934b3d165822d3e10e
 
                     </div>
                     <div class="col-sm-4 what-we-do-box wow fadeInUp">
@@ -380,10 +401,17 @@
 				<!-- <div class="card mr-3 col-sm" style="width: 15rem;">
 				<img src=".\assets\img\noticias\tres-rios.jpeg" class="card-img-top" alt="...">
 				<div class="card-body">
+<<<<<<< HEAD
 					<h5 class="card-title" style="color:black">Colaboradores do NuES participaram de workshop em Tr�s Rios</h5>
 					<p class="card-text">O primeiro workshop para debater caminhos para o desenvolvimento do ecossistema de inova��o da regi�o Sul Fluminense realizado pelo SEBRAE ocorreu na cidade
 						de Tr�s Rios-RJ no dia 24 de outubro. Os colaboradores do NuES Games marcaram presen�a no evento, no intuito de ajudar a tra�ar um plano de a��o para 
 						que a regi�o chegue ao posto de refer�ncia em inova��o no estado do Rio de Janeiro. 
+=======
+					<h5 class="card-title" style="color:black">Colaboradores do NuES participaram de workshop em Três Rios</h5>
+					<p class="card-text">O primeiro workshop para debater caminhos para o desenvolvimento do ecossistema de inovação da região Sul Fluminense realizado pelo SEBRAE ocorreu na cidade
+						de Três Rios-RJ no dia 24 de outubro. Os colaboradores do NuES Games marcaram presença no evento, no intuito de ajudar a traçar um plano de ação para 
+						que a região chegue ao posto de referência em inovação no estado do Rio de Janeiro. 
+>>>>>>> aad93e76123e0505ee6561934b3d165822d3e10e
 					</p>
 				</div>
 				</div> -->
